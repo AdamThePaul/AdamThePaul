@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on coding/software development; which is many years away at this point...
 - 📫 How to reach me: 85GLHS@gmail.com/ ...
 <!---
-AdamThePaul/AdamThePaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+More to be added later
 --->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
