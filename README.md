@@ -5,9 +5,9 @@
 - 📫 How to reach me: 85GLHS@gmail.com/ ...
 
 - <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.app.goo.gl/mXTd6YpNNj4DD5QN6">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.app.goo.gl/EJ9nNs9VawB4wjJa9">
+ <img alt="YOUR-ALT-TEXT" src="https://images.app.goo.gl/K7QUZvPQRTZN2Mps6">
 </picture>
 
 
